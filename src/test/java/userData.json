@@ -1,0 +1,17 @@
+{
+  "contacts" : {
+    "profile" : {
+      "name" : "Name Surname",
+      "wa_id" : "0011001100101"
+    }
+  },
+  "messages" : {
+    "id" : "514bae0b-8f97-4066-94b6-b3b079cf5cf1",
+    "from" : "34234234234",
+    "timestamp" : "1630913975",
+    "type" : "text",
+    "text" : {
+      "body" : "text"
+    }
+  }
+}
